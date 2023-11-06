@@ -13,6 +13,6 @@ We will have 2 main microservices:
 - Inventory -> Will store the products
 - Payments -> Will purchase the products
 
-The data will be stored in RedisJSON, which is a database similar to MOngoBD.
+The data will be stored in RedisJSON, which is a database similar to MongoBD.
 
 We will send event from one microservice to another using Redis streams.
