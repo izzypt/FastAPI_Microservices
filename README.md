@@ -47,3 +47,7 @@ We will send events from one microservice to another using Redis streams.
 - Event-Driven Data Flow: Microservices can use events to update their internal data stores or communicate changes to other services. This makes it easier to maintain data consistency across services.
 
 In summary, event-driven architecture complements microservices by providing a scalable, decoupled, and resilient communication model. It helps microservices work together efficiently while allowing for independent development, scaling, and fault tolerance. This combination of architectural patterns can be especially valuable in building complex and adaptable systems.
+
+Image describing the difference between monolithic vs micro services architecture :
+
+![image](https://github.com/izzypt/FastAPI_Microservices/assets/73948790/22a7d1f3-ec71-4a2b-9713-56c9acb5a036)
