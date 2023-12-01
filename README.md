@@ -48,6 +48,6 @@ We will send events from one microservice to another using Redis streams.
 
 In summary, event-driven architecture complements microservices by providing a scalable, decoupled, and resilient communication model. It helps microservices work together efficiently while allowing for independent development, scaling, and fault tolerance. This combination of architectural patterns can be especially valuable in building complex and adaptable systems.
 
-***<u>Image describing the difference between monolithic vs micro services architecture</u>*** :
+**<ins>General difference between monolithic vs micro services architecture</ins>** :
 
 ![image](https://github.com/izzypt/FastAPI_Microservices/assets/73948790/22a7d1f3-ec71-4a2b-9713-56c9acb5a036)
